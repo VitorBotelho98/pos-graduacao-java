@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "099d6042f485b2ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c38a1eeb1e3ca025",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "027e9fe1c9e2a645",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b0ee039be4d3907",
+    "type": "split",
+    "children": [
+      {
+        "id": "4197fb56dc871517",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2f2c8eac7c45a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c59a9bca862b48a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ca25b82b1972c592",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cac9d30a704aa201",
+    "type": "split",
+    "children": [
+      {
+        "id": "dee19dad60253213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ef2ee24faea359",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "modulo_0/O que é java?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para O que é java?"
+            }
+          },
+          {
+            "id": "0e33aa1619096bad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "modulo_0/O que é java?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para O que é java?"
+            }
+          },
+          {
+            "id": "27f2c4f0f941f020",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e56900d4fc7d6c91",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "b99da69976b0dc2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "modulo_0/O que é java?.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de O que é java?"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "af2f2c8eac7c45a8",
+  "lastOpenFiles": [
+    "modulo_0/Fundamentos da Plataforma Java/10 - XML em Java (JAXB, JAX-RS e JAX-WS).md",
+    "modulo_0/Fundamentos da Plataforma Java/09 - Persistência em Java (JDBC, JPA e ORM).md",
+    "modulo_0/Fundamentos da Plataforma Java/08 - APIs Empresariais Java (CDI, EJB, JMS, JTA e JNDI).md",
+    "modulo_0/Fundamentos da Plataforma Java/07 - Empacotamento Java (JAR, WAR e EAR).md",
+    "modulo_0/Fundamentos da Plataforma Java/06 - Edições da Plataforma Java (Java SE, EE, Jakarta EE e ME).md",
+    "modulo_0/Fundamentos da Plataforma Java/05 - Especificações Java (JSR, JCP, JSP e Servlet).md",
+    "modulo_0/Fundamentos da Plataforma Java/04 - Módulos e Memória da JVM (JPMS e JMM).md",
+    "modulo_0/Fundamentos da Plataforma Java/03 - A JVM (Java Virtual Machine).md",
+    "modulo_0/Fundamentos da Plataforma Java/02 - A Plataforma Java (JDK, JRE, JLS e JVM Spec).md",
+    "modulo_0/Fundamentos da Plataforma Java/01 - O que é java?.md",
+    "modulo_0/Módulos e Memória da JVM (JPMS e JMM).md",
+    "modulo_0/Empacotamento Java (JAR, WAR e EAR).md",
+    "modulo_0/XML em Java (JAXB, JAX-RS e JAX-WS).md",
+    "modulo_0/APIs Empresariais Java (CDI, EJB, JMS, JTA e JNDI).md",
+    "modulo_0/Persistência em Java (JDBC, JPA e ORM).md",
+    "modulo_0/Especificações Java (JSR, JCP, JSP e Servlet).md",
+    "modulo_0/Edições da Plataforma Java (Java SE, EE, Jakarta EE e ME).md",
+    "modulo_0/A Plataforma Java (JDK, JRE, JLS e JVM Spec).md",
+    "Sem título.canvas",
+    "modulo_0/A JVM (Java Virtual Machine).md",
+    "CLAUDE.md",
+    "modulo_0/O que é java?.md",
+    "Bem-vindo.md",
+    "modulo_0"
+  ]
+}
