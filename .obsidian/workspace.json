@@ -11,10 +11,14 @@
             "id": "027e9fe1c9e2a645",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "modulo_0/Sintaxe e Orientação a Objetos em Java/04 - Métodos e Construtores.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "04 - Métodos e Construtores"
             }
           }
         ]
@@ -181,8 +185,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "af2f2c8eac7c45a8",
+  "active": "027e9fe1c9e2a645",
   "lastOpenFiles": [
+    "modulo_0/Sintaxe e Orientação a Objetos em Java/08 - Strings, Imutabilidade e String Pool.md",
+    "modulo_0/Sintaxe e Orientação a Objetos em Java/03 - Classes, Atributos e Objetos.md",
+    "modulo_0/Sintaxe e Orientação a Objetos em Java/02 - Arrays e Laços de Repetição.md",
+    "modulo_0/Sintaxe e Orientação a Objetos em Java/01 - Variáveis, Operadores e Condicionais.md",
+    "modulo_0/Sintaxe e Orientação a Objetos em Java/07 - Pacotes, Modificadores de Acesso, Getters e Setters.md",
+    "modulo_0/Sintaxe e Orientação a Objetos em Java/06 - Herança e Polimorfismo.md",
+    "modulo_0/Sintaxe e Orientação a Objetos em Java/05 - Arrays de Objetos, Composição e Enums.md",
+    "modulo_0/Sintaxe e Orientação a Objetos em Java/04 - Métodos e Construtores.md",
+    "modulo_0/Sintaxe e Orientação a Objetos em Java",
     "modulo_0/Fundamentos da Plataforma Java/10 - XML em Java (JAXB, JAX-RS e JAX-WS).md",
     "modulo_0/Fundamentos da Plataforma Java/09 - Persistência em Java (JDBC, JPA e ORM).md",
     "modulo_0/Fundamentos da Plataforma Java/08 - APIs Empresariais Java (CDI, EJB, JMS, JTA e JNDI).md",
@@ -202,10 +215,6 @@
     "modulo_0/Edições da Plataforma Java (Java SE, EE, Jakarta EE e ME).md",
     "modulo_0/A Plataforma Java (JDK, JRE, JLS e JVM Spec).md",
     "Sem título.canvas",
-    "modulo_0/A JVM (Java Virtual Machine).md",
-    "CLAUDE.md",
-    "modulo_0/O que é java?.md",
-    "Bem-vindo.md",
     "modulo_0"
   ]
 }
